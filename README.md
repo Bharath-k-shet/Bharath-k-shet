@@ -1,10 +1,13 @@
-# 👋 Hey, I'm Bharath K Shet
+<h1 align="center">Hey 👋, I'm Bharath K Shet</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Problem Solver</h3>
 
-🚀 **Full Stack Developer | MERN Stack Enthusiast | Problem Solver**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Building+Scalable+Web+Apps;MERN+Stack+Developer;Tech+Explorer;Always+Learning+🚀" />
+</p>
 
 ---
 
-## 🌟 About Me
+## 🌌 About Me
 
 💡 Passionate about building real-world applications
 🧠 Currently working on **Fake News Detection using Blockchain**
@@ -14,39 +17,56 @@
 
 ---
 
+## 🚀 Expertise
+
+✨ Full Stack Development (MERN)
+✨ REST API Development
+✨ Real-time Applications (Socket.IO)
+✨ Database Design & Optimization
+✨ Clean UI & Performance Focus
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
-* JavaScript (ES6+)
-* Java
-* Python
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=java\&logoColor=orange)
+
+---
 
 ### 🌐 Frontend
 
-* React.js
-* HTML5
-* CSS3
-* Tailwind CSS
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwind-css\&logoColor=38B2AC)
+
+---
 
 ### ⚙️ Backend
 
-* Node.js
-* Express.js
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=node.js\&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express-111111?style=for-the-badge\&logo=express\&logoColor=white)
+
+---
 
 ### 🗄️ Database
 
-* MongoDB
-* MySQL
-
-### ☁️ Tools & Platforms
-
-* Git & GitHub
-* MongoDB Atlas
-* Vercel / Render
-* Postman
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
 
 ---
+
+### ☁️ Tools
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-111111?style=for-the-badge\&logo=render\&logoColor=46E3B7)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge\&logo=postman\&logoColor=FF6C37)
+
 
 ## 🚀 Projects
 
@@ -67,31 +87,49 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bharath-k-shet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bharath-k-shet&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bharath-k-shet&theme=tokyonight&hide_border=true"/>
+</p>
 
----
 
 ## 🌍 Connect With Me
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: https://linkedin.com/in/your-profile
-🐙 GitHub: https://github.com/YOUR_USERNAME
+<p align="center">
+  <a href="mailto:your-email@example.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/your-profile">💼 LinkedIn</a> •
+  <a href="https://github.com/YOUR_USERNAME">🐙 GitHub</a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Developer Mindset
 
-💭 *"Code is like humor. When you have to explain it, it’s bad."*
+```js
+while(alive){
+   eat();
+   code();
+   debug();
+   sleep();
+}
+```
+
+---
+
+## 💭 Quote
+
+*"Code is like humor. When you have to explain it, it’s bad."*
 
 ---
 
