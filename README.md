@@ -96,13 +96,11 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bharath-k-shet&theme=onedark&no-frame=true&margin-w=10&row=1"/>
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Bharath-k-shet&show_icons=true&theme=tokyonight)
 
-
+---
 
 ## 📈 Contribution Graph
 
